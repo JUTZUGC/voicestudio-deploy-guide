@@ -8,7 +8,7 @@
     "oneLiner": "完全本地的开源语音工作台（ElevenLabs 替代）",
     "officialRepo": "https://github.com/debpalash/VoiceStudio",
     "officialDocs": "https://github.com/debpalash/VoiceStudio#get-started",
-    "stars": "87.6k",
+    "stars": "92.2k",
     "license": "AGPL-3.0",
     "highlights": [
       "功能：音色克隆、音色设计、视频配音、听写、转录、有声书",
@@ -20,7 +20,7 @@
     "mcpSupport": "VoiceStudio 自带本地 API 与 MCP 接口，可以把语音能力交给 Agent 调用；具体工具清单以项目文档为准。本仓库的 MCP 只提供安装步骤、硬件要求与常见坑。",
     "webuiUrl": "",
     "adapterPorts": "",
-    "collectedAt": "2026-10-26",
+    "collectedAt": "2026-10-28",
     "verification": [
       [
         "官方安装脚本入口可访问",
